@@ -1,8 +1,8 @@
-# Dark Pattern & Online Fraud Detector — Part 1
+# Dark Pattern & Online Fraud Detector 
 
 A professional Streamlit implementation of the JNTUK R23 Project 29 concept.
 
-## Part 1 features
+## features
 
 - URL input and website fetching
 - Rule-based dark-pattern detection
